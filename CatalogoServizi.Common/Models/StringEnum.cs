@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CatalogoServizi.Common.Models
+{
+    /// <summary>
+    /// Coppia chiave valore di tipo stringa
+    /// </summary>
+    public class StringEnum : KeyValue<int, string>
+    {
+    }
+}

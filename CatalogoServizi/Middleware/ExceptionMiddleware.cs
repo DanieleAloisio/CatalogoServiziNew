@@ -6,7 +6,7 @@ namespace CatalogoServizi.Middleware
 {
    
     /// <summary>
-    /// Exception middleware
+    /// Exception Middleware
     /// </summary>
     public class ExceptionMiddleware
     {
